@@ -1,0 +1,5 @@
+use Mix.Config
+
+config :sips_fetcher,
+  email: "example@email.com",
+  password: "password"

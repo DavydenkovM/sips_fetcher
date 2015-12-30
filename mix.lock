@@ -1,0 +1,11 @@
+%{"certifi": {:hex, :certifi, "0.3.0"},
+  "hackney": {:hex, :hackney, "1.4.7"},
+  "httpoison": {:git, "https://github.com/edgurgel/httpoison.git", "536e3dd6461f859c0790c78e3a01f8fd8d913857", []},
+  "httpotion": {:hex, :httpotion, "2.1.0"},
+  "ibrowse": {:git, "https://github.com/cmullaparthi/ibrowse.git", "ea3305d21f37eced4fac290f64b068e56df7de80", [tag: "v4.1.2"]},
+  "idna": {:hex, :idna, "1.0.2"},
+  "jazz": {:hex, :jazz, "0.2.1"},
+  "mimerl": {:hex, :mimerl, "1.0.2"},
+  "ssl_verify_hostname": {:hex, :ssl_verify_hostname, "1.0.5"},
+  "tuco_tuco": {:git, "https://github.com/stuart/tuco_tuco.git", "9de19c31c8e9fd2191c7d0b781824c1f8931ccae", []},
+  "webdriver": {:hex, :webdriver, "0.8.1"}}
